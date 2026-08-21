@@ -59,8 +59,8 @@ A Windows Vulkan 1.4 shader authoring tool written in C++. It supports glTF mode
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tyduc45&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tyduc45&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tyduc45&theme=tokyonight" alt="GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyduc45&theme=tokyonight" alt="Most used languages" />
 </p>
 
 <p align="center">
